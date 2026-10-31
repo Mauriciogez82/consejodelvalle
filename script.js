@@ -2,7 +2,7 @@
 const G1 = [["Antorcha de Salvación","Carlos y Cristina Paniagua"],["Pueblo de Dios","Lucas y Eugenia Nievas"]];
 const G2 = [["Cuenta Conmigo","Héctor y Mirta Medina"],["Catedral de Alabanza (Berrotarán)","Juan y Patricia Ghissi"]];
 const G3 = [["Manantial de Vida","Hugo y Cristina Barbulo"],["Catedral de Alabanza (Río III)","Elvio y Roxana Pepino"],["Centro Familiar Mi Esperanza","Mirta Edith López"]];
-const G4 = [["Centro Cristiano Río de los Sauces","José y Marta Torres"],["Catedral de Alabanza (Los Cóndores)","Mauricio y Ana González"],["Centro Cristiano (Alta Gracia)","Sergio y Guzmán"]];
+const G4 = [["Centro Cristiano Río de los Sauces","José y Marta Torres"],["Catedral de Alabanza (Los Cóndores)","Mauricio y Ana Laura González"],["Centro Cristiano (Alta Gracia)","Sergio y Guzmán"]];
 
 const MONTHS = [
   { id:"noviembre", name:"Noviembre 2026", m:10, weeks:[[2,8,G1],[9,15,G2],[16,22,G3],[23,29,G4]] },
